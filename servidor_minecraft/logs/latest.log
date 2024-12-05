@@ -7372,3 +7372,25 @@ java.lang.NullPointerException: Element not found: amount
 [05Dec2024 23:53:33.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft left the game
 [05Dec2024 23:53:33.484] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/api/spells/CastType
 [05Dec2024 23:53:33.486] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client denercraft
+[05Dec2024 23:55:47.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[05Dec2024 23:55:47.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[05Dec2024 23:55:47.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[05Dec2024 23:55:47.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[05Dec2024 23:55:48.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05Dec2024 23:55:51.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[05Dec2024 23:55:51.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/allthemodium:the_other
+[05Dec2024 23:55:51.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[05Dec2024 23:55:51.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/allthemodium:the_beyond
+[05Dec2024 23:55:51.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/allthemodium:mining
+[05Dec2024 23:55:51.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[05Dec2024 23:55:51.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05Dec2024 23:55:51.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[05Dec2024 23:55:51.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_other): All chunks are saved
+[05Dec2024 23:55:51.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05Dec2024 23:55:51.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_beyond): All chunks are saved
+[05Dec2024 23:55:51.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mining): All chunks are saved
+[05Dec2024 23:55:51.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05Dec2024 23:55:51.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[05Dec2024 23:55:51.468] [Server thread/INFO] [Calio/]: Removing Dynamic Registries for: net.minecraft.server.dedicated.DedicatedServer@15a3cb9f
+[05Dec2024 23:55:51.469] [Server thread/INFO] [Framework/]: Unloading server configs...
+[05Dec2024 23:55:51.469] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
